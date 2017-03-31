@@ -6,6 +6,11 @@ Here are some screen-shots:
 
 ![Screen](https://github.com/sathindukavneth/findme/blob/master/images/screen.png)
 
+Some of Functionalities in the app
+
+* Can locate friends real-time
+* View the friend status that he/she is online or offline
+* User authentication
 
 ## How to run the app
 
