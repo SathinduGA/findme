@@ -1,14 +1,7 @@
 apply plugin: 'com.android.application'
 
 android {
-    signingConfigs {
-        config {
-            keyAlias 'FindMe'
-            keyPassword 'im2012'
-            storeFile file('C:/Users/Sathindu/Documents/AndroidStudioProjects/FindMe/keystore/findme.jks')
-            storePassword 'im2012'
-        }
-    }
+
     compileSdkVersion 25
     buildToolsVersion "25.0.2"
     defaultConfig {
