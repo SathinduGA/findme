@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_locate_friend"
+            android:icon="@drawable/ic_locate_friend"
+            android:title="Locate Friend" />
+        <item
+            android:id="@+id/nav_add_friend"
+            android:icon="@drawable/ic_requests"
+            android:title="Add Friends" />
+        <item
+            android:id="@+id/nav_invite"
+            android:icon="@drawable/ic_share"
+            android:title="Invites" />
+        <item
+            android:id="@+id/nav_settings"
+            android:icon="@drawable/ic_settings"
+            android:title="Settings" />
+        <item
+            android:id="@+id/nav_about"
+            android:icon="@drawable/ic_info"
+            android:title="About" />
+        <item
+            android:id="@+id/nav_logout"
+            android:icon="@drawable/ic_launch"
+            android:title="Logout" />
+
+    </group>
+
+</menu>

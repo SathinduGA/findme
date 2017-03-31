@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Find Me</string>
+    <string name="title_activity_main">Find Me</string>
+    <string name="navigation_drawer_open">Open Navigation Drawer</string>
+    <string name="navigation_drawer_close">Close Navigation Drawer</string>
+    <string name="action_settings">Settings</string>
+    <string name="GOOGLE_MAP_KEY">YOUR GOOGLE MAP KEY</string>
+    <string name="about">“Makes it easy to notify where your friends are roaming .Thus help you to catch them easily and hang on with them…”</string>
+</resources>
